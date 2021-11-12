@@ -1,1 +1,1 @@
-This is a program to generate some of the Poincare disk model Illustrations appearing in the paper 'Emergence of Minkowski-Spacetime by Simple Deterministic Graph Rewriting' which was prepublished on arXiV here: https://arxiv.org/abs/2110.03388
+This Jupyter Notebook program generates the Poincare disk model illustrations appearing in the paper 'Emergence of Minkowski-Spacetime by Simple Deterministic Graph Rewriting' which was prepublished on arXiV here: https://arxiv.org/abs/2110.03388
