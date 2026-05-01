@@ -1,6 +1,7 @@
-This Jupyter Notebook program generates the Poincare disk model illustrations appearing in our paper 'Emergence of Minkowski-Spacetime by Simple Deterministic Graph Rewriting' (https://scholar.google.ch/scholar?oi=bibs&cluster=14426533676247745938&btnI=1&hl=en).
+# Title of the Project
 
-Our notebook firstly calculates the coordinates of the points and then uses cduck's hyperbolic library to render the images. 
+Description of the project.
 
-pip3 install hyperbolic  
-pip3 install drawSvg  
+![Lorentzian3Tree13](generated%20images/Lorentzian3Tree13.svg)
+
+Further content of the README.
